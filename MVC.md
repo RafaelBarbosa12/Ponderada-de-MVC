@@ -28,4 +28,4 @@ As respostas desse formulário são enviadas, junto com o ID do usuário, para o
 <sup>Fonte: Material produzido pelo autor (2024)</sup>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;O MVC acima (figura 3) representa a interação do administrador com o relátorio final. Ele tem acesso às respostas, que podem ser filtradas, e um relátorio.
+&nbsp;&nbsp;&nbsp;&nbsp;O MVC acima (figura 3) representa a interação do administrador com o relátorio final. Ele tem acesso às respostas, que podem ser filtradas, baixadas ou procuradas, além de um relátorio e um painel.
